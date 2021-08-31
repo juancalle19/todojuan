@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todojuan.Cammon", "todojuan
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todojuan.Functions", "todojuan.Functions\todojuan.Functions.csproj", "{E23C953F-7437-40EC-9931-F427698B0C6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todojuan.Test", "todojuan.Test\todojuan.Test.csproj", "{264D49BD-B5DF-49A1-9B1E-65F37EB7F580}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todojuan.Test", "todojuan.Test\todojuan.Test.csproj", "{264D49BD-B5DF-49A1-9B1E-65F37EB7F580}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
